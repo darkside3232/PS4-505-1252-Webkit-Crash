@@ -13,8 +13,6 @@ A simple web page designed to test the PS4 505-1252 WebKit crash vulnerability
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
-https://darkside3232.github.io/PS4-12.50-Webkit-Crash/
-
----
+https://darkside3232.github.io/PS4-505-1252-Webkit-Crash/
 
 Created by Çınar Güney
